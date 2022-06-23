@@ -8,7 +8,7 @@ import "font-awesome/css/font-awesome.min.css";
 
 const { BaseLayer } = LayersControl;
 
-export default function Home() {
+export default function Maps() {
   const [map, setMap] = useState(null);
   const [position, setPosition] = useState(null);
 
